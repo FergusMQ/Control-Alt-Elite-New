@@ -12,4 +12,11 @@ public class Names {
 		System.out.println(".--.     /\\                ____");
 		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
 	}
+	
+	public static void PrintFergusSig() {
+		System.out.println("  /\\_____/\\" );
+		System.out.println(" /  o   o  \\" );
+		System.out.println("( ==  ^  == )");
+ 		System.out.println(" )         (");
+	}
 }
