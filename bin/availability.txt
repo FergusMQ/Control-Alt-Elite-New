@@ -1,0 +1,23 @@
+
+Sean Gibson Availability:
+| Time | Monday  | Tuesday  | Wednesday | Thursday | Friday  | Saturday |
+| ---- | ------- | -------- | --------- | -------- | ------- | -------- |
+| 7am  |         |          |           |          |         |          |
+| 8am  |         |          |           |          |         |          |
+| 9am  | X (Uni) | X (Work) | X (Work)  | X (Work) | X (Uni) |          |
+| 10am | X (Uni) | X (Work) | X (Work)  | X (Work) | X (Uni) |          |
+| 11am | X (Uni) | X (Work) | X (Work)  | X (Work) | X (Uni) |          |
+| 12pm | X (Uni) | X (Work) | X (Work)  | X (Work) | X (Uni) |          |
+| 1pm  | X (Uni) | X (Work) | X (Work)  | X (Work) |         |          |
+| 2pm  |         | X (Work) | X (Work)  | X (Work) |         | X (Work) |
+| 3pm  |         | X (Work) | X (Work)  | X (Work) |         | X (Work) |
+| 4pm  |         | X (Work) | X (Work)  | X (Work) |         | X (Work) |
+| 5pm  |         |          |           |          |         | X (Work) |
+| 6pm  |         |          |           |          |         | X (Work) |
+| 7pm  |         |          |           |          |         | X (Work) |
+| 8pm  |         |          |           |          |         | X (Work) |
+| 9pm  |         |          |           |          |         |          |
+| 10pm |         |          |           |          |         |          |
+| 11pm |         |          |           |          |         |          |
+| 12am |         |          |           |          |         |          |
+
